@@ -1,11 +1,7 @@
 ####Instructions
 
 1. Select a target. You may use The Hacker Academy website, your own company, or any large organization of your choice.
-2. Go to [Google](www.google.com) and use the
-```
-site:victim.com
-```
-query (filling in your own target for **"victim.com"**) to find all indexed content in the primary website.
+2. Go to [Google](www.google.com) and use the `site:victim.com` query (filling in your own target for **"victim.com"**) to find all indexed content in the primary website.
 3. Record any useful information.
 4. Note any nonstandard subdomains with webservers on them.
   * Subdomains such as "dev", "content", "members", "admin" or "forums" may contain interesting targets.
