@@ -1,6 +1,6 @@
 ####Instructions
 
-1. Go to [Google](www.google.com) and search for yourself.
+1. Go to [Google](http://www.google.com) and search for yourself.
   * `Search for your name. (in quotes, and without them)
   * `Search for any aliases or handles you have used online.
   * `Search for any email addresses you have used in the past.
