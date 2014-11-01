@@ -1,6 +1,6 @@
 ####Instructions
 
-Repeat each of the former exercises using [Bing](www.bing.com).
+Repeat each of the former exercises using [Bing](http://www.bing.com).
 * What new information did you find?
 * How was this search more useful?
 * How was it less useful?
